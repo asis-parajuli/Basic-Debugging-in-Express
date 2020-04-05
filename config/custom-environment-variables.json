@@ -1,0 +1,6 @@
+{
+  "_comment": "mapping of configuration file for password which we create in terminal as set app_password=1234",
+  "mail": {
+    "password": "app_password"
+  }
+}
