@@ -1,1 +1,1 @@
-this is public section
+Read me file for using static section
